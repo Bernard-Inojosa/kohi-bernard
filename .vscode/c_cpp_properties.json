@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/engine/src",
+                "${workspaceFolder}/testbed/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "DKIMPORT"
+            ],
+            "compilerPath": "clang",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-clang-x64"
+        }
+    ],
+    "version": 4
+}
